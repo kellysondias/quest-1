@@ -1,15 +1,19 @@
-.moda {
-    background-color: #BB86FC; 
+.tabela-moda, .tabela-casa {
+    background-color: white; 
+    color: white;
 }
 
-.casa {
-    background-color: #00C4B4;
-}
-
-.data {
+.tabela-moda td, .tabela-casa td{
     background-color: #404066;
 }
 
-.letra {
-    color: white;
+
+.tabela-moda th {
+    background-color:  #BB86FC;
 }
+
+.tabela-casa th {
+    background-color: #00C4B4;
+}
+
+
