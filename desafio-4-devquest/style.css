@@ -5,15 +5,18 @@
 
 .tabela-moda td, .tabela-casa td{
     background-color: #404066;
+    padding: 9px;
 }
 
 
 .tabela-moda th {
     background-color:  #BB86FC;
+    padding: 9px;
 }
 
 .tabela-casa th {
     background-color: #00C4B4;
+    padding: 9px;
 }
 
 
